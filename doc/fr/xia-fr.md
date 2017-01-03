@@ -87,7 +87,7 @@ Les informations renseignées dans les **Métadonnées du document** (menu **Fic
 
 <img src='../images/ia_title.png' style='display:block;margin:0 auto;width:90%;'>
 
-Le titre renseigné dans les métadonnées du document apparaissent au-dessus
+Le titre renseigné dans les métadonnées du document apparait au-dessus
 de l'image interactive et donnent son nom à la page web l'affichant. Le
 créateur et les droits associés apparaissent dans la pop up accessible via
 l'icône «**i**» située à droite du titre de l'image interactive.
@@ -225,7 +225,7 @@ en forme ou des ressources multimédias.
 Pour enrichir le texte et proposer des ressources multimédia, XIA s'appuie sur une syntaxe wiki élémentaire. Comme vous pouvez le constater en comparant les deux captures ci-dessous, il suffit d'ajouter des **marqueurs** spécifiques dans le texte pour réaliser la mise en forme ou simplement écrire les liens vers les ressources à intégrer.
 
 
-Text saisi avec les marqueurs wiki :
+Texte saisi avec les marqueurs wiki :
 
 <img src='../images/pikipiki-fr.png' style='display:block;margin:0 auto;width:90%;'>
 
@@ -237,7 +237,7 @@ Rendu final :
 
 - `***Mettre en gras***`
 - `**Mettre en italique**`
-- `{{{écrire du texte sans formattage}}}`
+- `{{{écrire du texte sans formatage}}}`
 - Pour insérer une image qui se trouve sur internet, écrivez simplement le lien vers cette image :
 ```
 https://xia.dane.ac-versailles.fr/img/xia.png
@@ -315,7 +315,7 @@ Une dernière possibilité, la plus simple de toutes, vous permet d'insérer des
 
 #### 3.3.1. Image de fond composite <a name='image-de-fond-composite'></a>
 
-Après avoir réalisé votre image interative, vous vous rendez compte qu'il manque des éléments dans votre image de fond. Sachez que vous pouvez a posteriori ajouter d'autres images et ainsi les grouper avec l'image de fond pour constituer une image de fond composite. Pour faire cela :
+Après avoir réalisé votre image interactive, vous vous rendez compte qu'il manque des éléments dans votre image de fond. Sachez que vous pouvez a posteriori ajouter d'autres images et ainsi les grouper avec l'image de fond pour constituer une image de fond composite. Pour faire cela :
 
 - Sélectionnez `> Fichier > Importer` dans Inkscape
 afin d'incorporer votre nouvelle image.
@@ -409,7 +409,7 @@ Pour changer cet ordre par défaut, utilisez les boutons dédiés de la barre de
 
 <img src='../images/inkscape_zindex.png' style='display:block;margin:0 auto;width:20%;'>
 
-Commencez par sélectionner le détail sur lequel vous voulez ahir et cliquez sur l'un des 4 boutons ci-dessus pour modifier la `profondeur` du détail.
+Commencez par sélectionner le détail sur lequel vous voulez agir et cliquez sur l'un des 4 boutons ci-dessus pour modifier la `profondeur` du détail.
 
 ### 3.7. En résumé <a name='resume-images-enrichies'></a>
 
@@ -891,7 +891,7 @@ Si vous ne faites pas de copie bitmap du texte, Xia considèrera que le texte cr
 
 - Ajoutez des couleurs de fond à vos détails. Les détails seront ainsi plus faciles à sélectionner et modifier, et cela n'aura aucune conséquence sur l'animation html5 (sauf si vous choisissez le blanc ou le noir comme couleur de remplissage).
 - Si vous voulez créer un détail à partir de plusieurs, vous pouvez les «~Grouper~» (\softmenu{Objet} $\rightarrow$ \softmenu{Grouper}, ou \Ctrl + \keystroke{G}) ou les «~Unir~» (\softmenu{Chemin} $\rightarrow$ \softmenu{Union}, ou \Ctrl + \keystroke{+}).
-- Quand un détail est créé, il est toujours possible de les modifier: ajout ou suppression de nœuds, déplacement, etc. Il suffit de double-cliquer sur un détail et d'utiliser les outils de modification:
+- Quand un détail est créé, il est toujours possible de le modifier: ajout ou suppression de nœuds, déplacement, etc. Il suffit de double-cliquer sur un détail et d'utiliser les outils de modification:
  \begin{center}
  \includegraphics[width=0.8\textwidth]{./images/modifynodes}\\  
  \end{center}
